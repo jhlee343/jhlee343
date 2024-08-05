@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=97C881&text=Semigrammer)
 
 ### Hi there 👋
-- 🌱 I’m currently learning server / java / 
+- 🌱 I’m currently learning aws / java / docker / 
 - 📫 How to reach me: ...
 
 
